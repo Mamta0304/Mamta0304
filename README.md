@@ -18,7 +18,7 @@ I am passionate about Artificial Intelligence, Machine Learning, Generative AI, 
 
 **Frameworks & Tools:** React.js, Django, Firebase, Git, GitHub
 
-**Databases:** MySQL, MongoDB, Cloud Firestore, SQLite
+**Databases:** MySQL, MongoDB, Cloud Firestore
 
 **AI & ML:** RAG, FAISS, OCR, NLP, Prompt Engineering
 
