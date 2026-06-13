@@ -45,7 +45,7 @@ Voice-Controlled Email Assistant for Accessibility
 
 ## 📫 Connect With Me
 
-* LinkedIn: [Add your LinkedIn URL](https://www.linkedin.com/in/mamatha-r-4797422a2)
+* LinkedIn: [LinkedIn URL](https://www.linkedin.com/in/mamatha-r-4797422a2)
 * Email: [mamatha0316@gmail.com](mailto:mamatha0316@gmail.com)
 
 "Learning, Building, and Growing Every Day."
