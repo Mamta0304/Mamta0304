@@ -1,16 +1,51 @@
-## Hi there 👋
+# Hi 👋, I'm Mamatha R
 
-<!--
-**Mamta0304/Mamta0304** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Computer Science Engineering Student | AI & Full-Stack Developer
 
-Here are some ideas to get you started:
+I am passionate about Artificial Intelligence, Machine Learning, Generative AI, Full-Stack Development, and Cloud Computing. I enjoy building intelligent applications that solve real-world problems and improve user experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Current Focus
+
+* Machine Learning
+* Generative AI & RAG
+* Full-Stack Development
+* Cloud Computing
+* Data Structures & Algorithms
+
+## 💻 Tech Stack
+
+**Languages:** Python, Java, JavaScript, HTML, CSS
+
+**Frameworks & Tools:** React.js, Django, Firebase, Git, GitHub
+
+**Databases:** MySQL, MongoDB, Cloud Firestore, SQLite
+
+**AI & ML:** RAG, FAISS, OCR, NLP, Prompt Engineering
+
+## 🌟 Featured Projects
+
+### IntelliCampus
+
+AI-Powered College Management System with Hybrid RAG
+
+### MindBudget AI
+
+AI-Powered Behavioral Finance Platform
+
+### Smart Assistant for Email Management for Blinds
+
+Voice-Controlled Email Assistant for Accessibility
+
+## 🏆 Achievements
+
+* Finalist, VIBEATHON 2026
+* Participant, IDEATHON 2025
+* AWS Academy Machine Learning Foundations
+* AWS Fundamental Cloud Computing
+
+## 📫 Connect With Me
+
+* LinkedIn: Add your LinkedIn URL
+* Email: [mamatha0316@gmail.com](mailto:mamatha0316@gmail.com)
+
+"Learning, Building, and Growing Every Day."
